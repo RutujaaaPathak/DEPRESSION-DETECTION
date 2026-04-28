@@ -1,0 +1,23 @@
+{
+    "session_id": "session_001",
+    "face": {
+        "avg_face_score": 0.0,
+        "face_depression_score": 0.5,
+        "dominant_emotion": "neutral",
+        "emotion_distribution": {},
+        "face_detected_ratio": 0.0,
+        "snapshots_captured": 0
+    },
+    "voice": {
+        "normalized_score": 0.5,
+        "depression_level": "Normal",
+        "total_weighted_score": 0.0
+    },
+    "fusion": {
+        "fused_score": 0.5,
+        "face_weight": 0.0,
+        "voice_weight": 1.0,
+        "final_depression_level": "Moderate",
+        "recommended_action": "Consider speaking to a counselor or trusted person."
+    }
+}

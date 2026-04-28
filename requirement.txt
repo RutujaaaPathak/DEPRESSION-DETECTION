@@ -17,3 +17,10 @@ werkzeug
 transformers
 torch
 openai-whisper
+deepface>=0.0.93
+opencv-python>=4.8.0
+numpy>=1.24.0
+tensorflow>=2.13.0     # DeepFace backend
+# OR use: tf-keras if on TF 2.16+
+retina-face>=0.0.17    # for retinaface detector backend (highest accuracy)
+tf-keras
